@@ -1,0 +1,5 @@
+#   Environment Variables
+CLOUDANT_USERNAME=efd6623d-aacf-4de6-bda3-609c3a834207-bluemix
+CLOUDANT_PASSWORD=c75a18fc955f739a06934bf62fdbfb2d3bc234be167e6c2c3b35ae94535df632
+CLOUDANT_HOST=efd6623d-aacf-4de6-bda3-609c3a834207-bluemix.cloudantnosqldb.appdomain.cloud
+CLOUDANT_URL=https://efd6623d-aacf-4de6-bda3-609c3a834207-bluemix:c75a18fc955f739a06934bf62fdbfb2d3bc234be167e6c2c3b35ae94535df632@efd6623d-aacf-4de6-bda3-609c3a834207-bluemix.cloudantnosqldb.appdomain.cloud
